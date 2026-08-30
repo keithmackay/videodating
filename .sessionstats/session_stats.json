@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "rows": [
+    {
+      "sessionId": "c4d71615-d28a-468e-b245-799600406af9",
+      "project": "videodating",
+      "event": "START",
+      "timestamp": "2026-08-30T06:57:57.613Z",
+      "duration": null,
+      "models": [],
+      "apiMessages": null,
+      "userMessages": null,
+      "toolCalls": null,
+      "subagentCount": null,
+      "cacheHitRate": null,
+      "flags": null,
+      "machineId": "Keith.MacKay@XMHM9K7GC5VJ"
+    }
+  ]
+}
